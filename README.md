@@ -9,7 +9,7 @@ Welcome to the MNIST Handwritten Digit Recognizer project! This repository conta
 2. [Features](#features)
 
 ## Overview
-The MNIST Handwritten Digit Recognizer is a machine learning project aimed at classifying handwritten digits from the MNIST dataset. The dataset consists of 60,000 training images and 10,000 test images of digits ranging from 0 to 9. This project uses a Convolutional Neural Network (CNN) built with TensorFlow and Keras to achieve high accuracy in digit recognition.
+The MNIST Handwritten Digit Recognizer is a machine learning project aimed at classifying handwritten digits from the MNIST dataset. The dataset consists of 60,000 training images and 10,000 test images of digits ranging from 0 to 9. This project uses k nearest machine algorithm to predict the value, built witwith sklearn to achieve high accuracy in digit recognition.
 
 ## Features
 - **Data Preprocessing:** Load and preprocess the MNIST dataset for training and testing.
